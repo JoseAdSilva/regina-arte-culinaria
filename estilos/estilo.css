@@ -1,1 +1,20 @@
 @charset "utf-8";
+
+:root {
+    --cor0:#390099;
+    --cor1:#9e0059;
+    --cor2:#ff0054;
+    --cor3:#ff5400;
+    --cor4:#ffbd00;
+    --cor5:#ffe066;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+main p{
+    margin: 20px 0px;
+    text-align: center;
+}
