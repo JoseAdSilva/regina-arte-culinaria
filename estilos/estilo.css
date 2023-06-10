@@ -18,3 +18,7 @@ main p{
     margin: 20px 0px;
     text-align: center;
 }
+body {
+    background-color: var(--cor0);
+    font-family: Arial, Helvetica, sans-serif;
+}
