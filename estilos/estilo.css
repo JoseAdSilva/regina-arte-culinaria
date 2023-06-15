@@ -75,5 +75,5 @@ footer{
     padding: 5px;
 }
 a.email::before {
-    content: '\00A0\1F4E7';
+    content: '\00A0\00040';
 }
